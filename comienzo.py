@@ -1,7 +1,7 @@
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "none"
 
 # List of countries that speak Spanish
 countries_in_spanish = ["Argentina", "Bolivia", "Chile", "Colombia", "Costa Rica", "Cuba", "Dominican Republic", 
